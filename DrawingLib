@@ -1,4 +1,4 @@
-warn ("[VOXI] Loaded DrawingLib (3/3) ")
+warn ("[VOXI] Loaded DrawingLib (1/3) ")
 local coreGui = game:GetService("CoreGui")
 
 local camera = workspace.CurrentCamera
