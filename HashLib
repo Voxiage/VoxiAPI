@@ -1,4 +1,4 @@
-print ("VOXI; HASKLIB")
+warn ("[VOXI] HashLibary Started")
 
 --[=[------------------------------------------------------------------------------------------------------------------------
 -- HashLib by Egor Skriptunoff, boatbomber, and howmanysmall
