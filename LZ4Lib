@@ -1,4 +1,5 @@
 warn ("[VOXI] Loaded LZ4Lib")
+warn ("[VOXI] Loaded VoxiLib")
 
 --!strict
 -- metatablecat 2022
